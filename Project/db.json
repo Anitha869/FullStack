@@ -1,0 +1,30 @@
+[
+  {
+    "notes": "HTML is easy",
+    "id": 1
+  },
+  {
+    "notes": "Browser can execute only Javascript",
+    "id": 2
+  },
+  {
+    "notes": "Most important methods of HTTP-protocol are GET and POST",
+    "id": 3
+  },
+  {
+    "notes": "Mearn Stack Development",
+    "id": 5
+  },
+  {
+    "notes": "Web Development Using React",
+    "id": 7
+  },
+  {
+    "notes": "web development",
+    "id": 8
+  },
+  {
+    "notes": "Stack development",
+    "id": 9
+  }
+]
